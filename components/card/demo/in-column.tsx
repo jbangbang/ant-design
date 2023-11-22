@@ -8,16 +8,6 @@ const App: React.FC = () => (
         Card content
       </Card>
     </Col>
-    <Col span={8}>
-      <Card title="Card title" bordered={false}>
-        Card content
-      </Card>
-    </Col>
-    <Col span={8}>
-      <Card title="Card title" bordered={false}>
-        Card content
-      </Card>
-    </Col>
   </Row>
 );
 
